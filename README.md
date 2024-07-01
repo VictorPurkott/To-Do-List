@@ -28,3 +28,39 @@ A "To Do List / Lista de Tarefas" é basicamente um local onde você pode armaze
 Sinta-se à vontade para abrir problemas se encontrar bugs ou tiver sugestões para melhorias. Pull requests são bem-vindos. Para alterações importantes, por favor, abra um problema primeiro para discutir o que você gostaria de mudar. Caso queira ver os meus projetos, é só entrar no meu perfil e ir na aba de repositorio, você é muito bem-vindo!
 
 #### Espero que gostem!
+
+
+==============================================================================================
+
+# Description in English:
+
+# JavaScript project with HTML and CSS
+
+This project is basically a "To Do List" or "Task List", it has most of the code done in JS and consequently it is my first project in JS and I am very happy with the result.
+
+This project was made for me to improve my knowledge and skills in JS.
+
+### Overview:
+
+The "To Do List" is basically a place where you can store your tasks that have not yet been completed and giving a "✔️" to those that have been completed as a result, will create a good place to organize your tasks .
+
+### Functionalities:
+
+- Add Task Function
+- Task Remover function
+- Edit Task Function
+- Function that displays and updates synchronously with the number and progress bar according to the total tasks that have been completed and not completed
+
+### Project done in:
+
+- JS
+- HTML
+- CSS
+
+### Author and Website:
+- ❄️ Victor Gabriel Purkott Coelho
+- 🔗 http://to-do-list-purkott.vercel.app
+
+Feel free to open issues, find bugs or have suggestions for improvements. Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. If you want to see my projects, just go to my profile and go to the repository tab, you are very welcome!
+
+#### Hope you like it!
