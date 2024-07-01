@@ -29,10 +29,9 @@ Sinta-se à vontade para abrir problemas se encontrar bugs ou tiver sugestões p
 
 #### Espero que gostem!
 
+<hr>
 
-==============================================================================================
-
-# Description in English:
+### Description in English:
 
 # JavaScript project with HTML and CSS
 
