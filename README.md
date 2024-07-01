@@ -30,6 +30,7 @@ Sinta-se à vontade para abrir problemas se encontrar bugs ou tiver sugestões p
 #### Espero que gostem!
 
 <hr>
+<hr>
 
 ### Description in English:
 
