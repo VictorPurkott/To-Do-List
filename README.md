@@ -1,4 +1,4 @@
-# Projeto de JavaScript com HTML e CSS
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&color=3B95F7&left=true&vCenter=true&width=1500&lines=To+Do+List;Projeto+feito+em+JS,+HTML,+CSS)](https://git.io/typing-svg) <br><hr>
 
 Este projeto é basicamente uma "To Do List" ou "Lista de Tarefas", ela possui a maior parte do código feito em JS e consequentemente é o meu primeiro projeto em JS e estou muito feliz com o resultado.
 
